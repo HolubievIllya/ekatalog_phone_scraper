@@ -1,5 +1,5 @@
 # Ekatalog_phone_scraper
-This is a Python script for scraping phone information from the ekatalog website and storing it in a CSV file.
+This is a Python script for scraping information about phones from the ekatalog website and storing it in a CSV file.
 # Requirements
 <ul>
   <li>Python 3.10</li>
